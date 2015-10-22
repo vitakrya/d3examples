@@ -1,5 +1,5 @@
 $(function() {
-	var data = [4, 8, 15, 16, 23, 42];
+	var data = [4, 8, 15, 16, 23, 33, 40, 42];
 	colors = d3.scale.category10();
 	d3.select(".chart")
   	.selectAll("div")
